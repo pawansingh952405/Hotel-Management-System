@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\DELL\Documents\NetBeansProjects\Hotel Management System\dist\Hotel_Management_System.jar</jar>
+  <outfile>C:\Users\DELL\Documents\NetBeansProjects\Hotel Management System\dist\Hotel_Management.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\DELL\Documents\NetBeansProjects\Hotel Management System\dist\favicon (1).ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <maxHeapSize>512</maxHeapSize>
+  </jre>
+</launch4jConfig>
